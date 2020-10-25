@@ -27,6 +27,5 @@ public class MagoAdaptador implements Fighter{
     @Override
     public void escapar() {
         this.mago.abrirPortal();
-    }
-    
+    } 
 }
